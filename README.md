@@ -61,7 +61,7 @@ Words are stacked vertically inside a container, and the `margin-top` property i
 
 ## 📷 Screenshot (Optional)
 
-
+![alt text](image.png)
 
 ---
 
